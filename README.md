@@ -1,16 +1,36 @@
-## Hi there 👋
+### Hi there 👋, Bijon Ahmed 
+#### Full Stack Web Developer | Laravel | React.js | Next.js | Vue.js | Nuxt.js | Node.js | MySQL | JavaScript | API Integration | Bootstrap | Tailwind CSS| Helping Businesses Build Scalable Web Apps
+![Full Stack Web Developer | Laravel | React.js | Next.js | Vue.js | Nuxt.js | Node.js | MySQL | JavaScript | API Integration | Bootstrap | Tailwind CSS| Helping Businesses Build Scalable Web Apps](https://media.licdn.com/dms/image/v2/D5616AQF1nu0acheEtQ/profile-displaybackgroundimage-shrink_350_1400/B56ZnIxZIZJkAY-/0/1760010026644?e=1762992000&v=beta&t=sYT5FPBZtOHlhDsSfhjRLdjHMuueFbB7JRY_LvddnAA)
 
-<!--
-**bijonahmed/bijonahmed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I’m Bijon Ahmed, a passionate Full-Stack Web Developer specializing in PHP Laravel, React.js, Vue.js, Next.js, and Nuxt.js.
 
-Here are some ideas to get you started:
+I help startups, entrepreneurs, and growing businesses build modern, responsive, and secure web applications that perform beautifully across all devices. My goal is to deliver clean, scalable, and maintainable code that brings real business value.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+What I Offer
+
+✅ Custom Web Application Development using Laravel, React.js, Vue.js, Next.js, and Nuxt.js
+✅ RESTful Laravel API & Admin Panel with advanced authentication and role-based access control
+✅ Frontend Development — fast, dynamic, and SEO-friendly interfaces
+✅ Payment Gateway Integration (Stripe, PayPal, SSLCOMMERZ, etc.)
+✅ Deployment & Server Maintenance (Shared Hosting, VPS, cPanel, etc.)
+✅ Full-Stack Project Development — from planning to production launch
+
+Skills: Laravel | React.js | Next.js | Vue.js | Nuxt.js | Node.js | MySQL | JavaScript | API Integration | Bootstrap | Tailwind CSS
+
+- 🔭 I’m currently working on this page. 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/bijonahmed/bijonahmed)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/bijonahmed//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/bijon.ahmed.3)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://bijonprofile.com/)  
+
+<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=https://github.com/bijonahmed/bijonahmed)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/bijonahmed/bijonahmed)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/bijonahmed/bijonahmed&show_icons=true&count_private=true)  
+
+![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/https://github.com/bijonahmed/bijonahmed/contributions?format=svg&private=true)  
+
+![GitHub metrics](https://metrics.lecoq.io/https://github.com/bijonahmed/bijonahmed)  
+
