@@ -6,8 +6,6 @@ Hi, I’m Bijon Ahmed, a passionate Full-Stack Web Developer specializing in PHP
 
 I help startups, entrepreneurs, and growing businesses build modern, responsive, and secure web applications that perform beautifully across all devices. My goal is to deliver clean, scalable, and maintainable code that brings real business value.
 
-What I Offer
-
 ✅ Custom Web Application Development using Laravel, React.js, Vue.js, Next.js, and Nuxt.js
 ✅ RESTful Laravel API & Admin Panel with advanced authentication and role-based access control
 ✅ Frontend Development — fast, dynamic, and SEO-friendly interfaces
