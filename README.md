@@ -16,5 +16,9 @@ I help startups, entrepreneurs, and growing businesses build modern, responsive,
 Skills: Laravel | React.js | Next.js | Vue.js | Nuxt.js | Node.js | MySQL | JavaScript | API Integration | Bootstrap | Tailwind CSS
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/bijonahmed/bijonahmed)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/in/bijonahmed//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/bijon.ahmed.3)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://bijonprofile.com/)  
+[![GitHub](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg =24x24)](https://github.com/bijonahmed/bijonahmed) 
+[![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg =24x24)](https://www.linkedin.com/in/bijonahmed/) 
+[![Facebook](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg =24x24)](https://www.facebook.com/bijon.ahmed.3) 
+[![Website](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg =24x24)](https://bijonprofile.com/)
+ 
 
