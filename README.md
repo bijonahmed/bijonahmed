@@ -1,5 +1,5 @@
 ### Hi there 👋, Bijon Ahmed 
-Full Stack Web Developer | Laravel | React.js | Next.js | Vue.js | Nuxt.js | Node.js | MySQL | JavaScript | API Integration | Bootstrap | Tailwind CSS| Helping Businesses Build Scalable Web Apps
+Full Stack Web Developer | Laravel | React.js | Next.js | React Native | Vue.js | Nuxt.js | Node.js | MySQL | JavaScript | API Integration | Bootstrap | Tailwind CSS| Helping Businesses Build Scalable Web Apps
 ![Full Stack Web Developer | Laravel | React.js | Next.js | Vue.js | Nuxt.js | Node.js | MySQL | JavaScript | API Integration | Bootstrap | Tailwind CSS| Helping Businesses Build Scalable Web Apps]
 
 Hi, I’m Bijon Ahmed, a passionate Full-Stack Web Developer specializing in PHP Laravel, React.js, Vue.js, Next.js, and Nuxt.js.
