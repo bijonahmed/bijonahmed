@@ -86,15 +86,7 @@ As a Full Stack Developer, I deliver end-to-end web solutions from planning thro
 ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=flat&logo=postman&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
----
-
-## 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=bijonahmed&show_icons=true&theme=default&hide_border=true" alt="Bijon's GitHub Stats" />
-</p>
-
----
+   
 
 ## 🤝 Let's Work Together
 
