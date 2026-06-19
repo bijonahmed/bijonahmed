@@ -37,6 +37,7 @@ As an AI Automation Engineer, I design and build intelligent systems that elimin
 - **Agentic AI Workflows** — LangChain, LangGraph, CrewAI, AutoGen
 - **LLM Integration** — OpenAI GPT-4, Claude, Gemini API integration into products
 - **RAG Pipelines** — Retrieval-Augmented Generation with vector databases (Pinecone, Qdrant)
+- **No-Code / Low-Code Automation** — n8n workflow automation, visual pipeline builder, webhook & API orchestration
 - **Business Process Automation** — AI-powered ERP automation, document processing, workflow orchestration
 - **Prompt Engineering** — Advanced prompt design, chain-of-thought, structured outputs
 - **AI API Integration** — REST APIs connected with AI backends for real-time automation
@@ -59,6 +60,7 @@ As a Full Stack Developer, I deliver end-to-end web solutions from planning thro
 ## 🛠 Tech Stack & Skills
 
 **AI & Automation:**
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat&logo=chainlink&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -108,4 +110,4 @@ I'm open to freelance projects, collaborations, and full-time opportunities in:
 
 ---
 
-*Keywords: Full Stack Developer, AI Automation Engineer, Laravel Developer, React Developer, Next.js Developer, Vue.js Developer, Node.js Developer, LLM Integration, RAG Pipeline, Agentic AI, ERP Development, SaaS Development, Business Process Automation, REST API, Bangladesh Developer*
+*Keywords: Full Stack Developer, AI Automation Engineer, Laravel Developer, React Developer, Next.js Developer, Vue.js Developer, Node.js Developer, LLM Integration, RAG Pipeline, Agentic AI, n8n Automation, Workflow Automation, ERP Development, SaaS Development, Business Process Automation, REST API, Bangladesh Developer*
